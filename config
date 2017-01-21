@@ -1,0 +1,4 @@
+Host github.com
+  HostName github.com
+  User prb578
+  IdentityFile ~/.ssh/id_rsa_ghub
